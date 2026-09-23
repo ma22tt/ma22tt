@@ -1,56 +1,61 @@
+
+
+Readme · MD
 <div align="center">
-<img src="assets/yo.svg" width="100%" alt="Matteo Castrataro"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Software+developer+%C2%B7+systems+%26+backend;C+%C2%B7+C%2B%2B+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Systems+security+student+%C2%B7+EPHEC" alt="Software developer · systems & backend"/>
+<img src="assets/banner.svg" width="100%" alt="Matteo Castrataro — systems & backend developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E8502E&center=true&vCenter=true&width=640&lines=Low-level+by+training%2C+backend+by+choice;Building+software+that+drives+real+systems;Currently%3A+systems+security+%40+EPHEC" alt="Low-level by training, backend by choice"/>
 </div>
 ---
  
-Trained at 42 Belgium (2024–2026) and now studying for a bachelor's degree in systems security at EPHEC. I work mainly in C and C++ — system programming, networking, concurrency — and build backend services with TypeScript, Node.js and PostgreSQL. I am particularly interested in software that drives real systems, and in making it reliable and secure.
+Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and build **backend services** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
  
-### Currently
+### ⚡ Currently
  
-- Bachelor in Systems Security — EPHEC (2026–2029)
-- Building backend projects with TypeScript, Express and PostgreSQL
-- Preparing cloud and cybersecurity certifications
-### Languages
+-  Bachelor in Systems Security — EPHEC (2026–2029)
+-  Building backend projects with TypeScript, Express and PostgreSQL
+-  Preparing cloud and cybersecurity certifications
+###  Languages
  
-![C](https://img.shields.io/badge/C-24292E?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-24292E?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292E?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292E?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292E?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292E?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-24292E?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-24292E?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-24292E?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=659AD2)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=699ECA)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=42A5F5)
  
-### Backend & Data
+###  Backend & Data
  
-![Node.js](https://img.shields.io/badge/Node.js-24292E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-24292E?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292E?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-24292E?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=699ECA)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=44A8E0)
  
-### Infrastructure & Tools
+###  Infrastructure & Tools
  
-![Docker](https://img.shields.io/badge/Docker-24292E?style=flat-square&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-24292E?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-24292E?style=flat-square&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-24292E?style=flat-square&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292E?style=flat-square&logo=git&logoColor=white)
-![Make](https://img.shields.io/badge/Make-24292E?style=flat-square&logo=gnu&logoColor=white)
-![npm](https://img.shields.io/badge/npm-24292E?style=flat-square&logo=npm&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-24292E?style=flat-square&logo=vim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-24292E?style=flat-square&logo=codecrafters&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
+![NGINX](https://img.shields.io/badge/NGINX-161B22?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/macOS-161B22?style=for-the-badge&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![Make](https://img.shields.io/badge/Make-161B22?style=for-the-badge&logo=gnu&logoColor=D0D0D0)
+![npm](https://img.shields.io/badge/npm-161B22?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Vim](https://img.shields.io/badge/Vim-161B22?style=for-the-badge&logo=vim&logoColor=019733)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=codecrafters&logoColor=007ACC)
  
-### Engineering focus
+###  Engineering focus
  
-- **Systems** — memory management, multithreading and concurrency, state machines, sockets, client–server architecture
-- **Backend** — REST API design, relational data modeling, SQL constraints and transactions, parameterized queries, HTTP error handling
-- **Networking & infrastructure** — TCP/IP, HTTP, TLS, subnetting, containerized services (Docker Compose), Linux system administration
+| | |
+|---|---|
+| **Systems** | memory management · multithreading & concurrency · state machines · sockets · client–server architecture |
+| **Backend** | REST API design · relational data modeling · SQL constraints & transactions · parameterized queries · HTTP error handling |
+| **Networking & infra** | TCP/IP · HTTP · TLS · subnetting · containerized services · Linux system administration |
+ 
 ---
  
 <div align="center">
-[![Email](https://img.shields.io/badge/Email-24292E?style=flat-square&logo=gmail&logoColor=white)](mailto:feyta19@gmail.com)
+[![Email](https://img.shields.io/badge/Get_in_touch-E8502E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feyta19@gmail.com)
  
 </div>
- 
