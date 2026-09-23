@@ -2,7 +2,7 @@
 <img src="assets/ee.svg" width="100%" alt="Matteo Castrataro — systems programmer · security student"/>
 ---
  
-Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and I am expanding into **backend development** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
+After 2 years at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and I am expanding into **backend development** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
  
 ###  Currently
  
