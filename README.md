@@ -1,18 +1,15 @@
-
-
-Readme · MD
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt=""/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E8502E&center=true&vCenter=true&width=640&lines=Low-level+by+training%2C+backend+by+choice;Building+software+that+drives+real+systems;Currently%3A+systems+security+%40+EPHEC" alt="Low-level by training, backend by choice"/>
+<img src="assets/banner.svg" width="100%" alt="Matteo Castrataro — systems programmer · security student"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E8502E&center=true&vCenter=true&width=640&lines=Low-level+by+training%2C+security+by+choice;Curious+about+software+that+drives+real+systems;Currently%3A+systems+security+%40+EPHEC" alt="Low-level by training, security by choice"/>
 </div>
 ---
  
-Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and build **backend services** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
+Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and I am expanding into **backend development** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
  
 ###  Currently
  
 -  Bachelor in Systems Security — EPHEC (2026–2029)
--  Building backend projects with TypeScript, Express and PostgreSQL
+-  Learning backend development with TypeScript, Express and PostgreSQL
 -  Preparing cloud and cybersecurity certifications
 ###  Languages
  
@@ -59,3 +56,4 @@ Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work
 [![Email](https://img.shields.io/badge/Get_in_touch-E8502E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feyta19@gmail.com)
  
 </div>
+ 
