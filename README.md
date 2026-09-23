@@ -49,8 +49,5 @@ After 2 years at **42 Belgium** and now studying **systems security at EPHEC**. 
  
 ---
  
-<div align="center">
-[![Email](https://img.shields.io/badge/Get_in_touch-E8502E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feyta19@gmail.com)
- 
 </div>
  
