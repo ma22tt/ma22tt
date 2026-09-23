@@ -2,7 +2,7 @@
 
 Readme · MD
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt="Matteo Castrataro — systems & backend developer"/>
+<img src="assets/banner.svg" width="100%" alt=""/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E8502E&center=true&vCenter=true&width=640&lines=Low-level+by+training%2C+backend+by+choice;Building+software+that+drives+real+systems;Currently%3A+systems+security+%40+EPHEC" alt="Low-level by training, backend by choice"/>
 </div>
 ---
