@@ -8,7 +8,6 @@ After 2 years at **42 Belgium** and now studying **systems security at EPHEC**. 
  
 -  Bachelor in Systems Security — EPHEC (2026–2029)
 -  Learning backend development with TypeScript, Express and PostgreSQL
--  Preparing cloud and cybersecurity certifications
 ###  Languages
  
 ![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC)
