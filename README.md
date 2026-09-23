@@ -1,7 +1,5 @@
 <div align="center">
 <img src="assets/ee.svg" width="100%" alt="Matteo Castrataro — systems programmer · security student"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E8502E&center=true&vCenter=true&width=640&lines=Low-level+by+training%2C+security;Curious+about+software+that+drives+real+systems;Currently%3A+systems+security+%40+EPHEC" alt="Low-level by training, security by choice"/>
-</div>
 ---
  
 Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and I am expanding into **backend development** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
