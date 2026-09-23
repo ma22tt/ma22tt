@@ -9,7 +9,7 @@ Readme · MD
  
 Trained at **42 Belgium** and now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and build **backend services** with TypeScript, Node.js and PostgreSQL. What drives me: software that controls real systems, and making it reliable and secure.
  
-### ⚡ Currently
+###  Currently
  
 -  Bachelor in Systems Security — EPHEC (2026–2029)
 -  Building backend projects with TypeScript, Express and PostgreSQL
