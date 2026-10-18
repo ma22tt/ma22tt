@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ee.svg" width="100%" alt="Matteo — systems programmer · security student"/>
+<img src="assets/qqw.svg" width="100%" alt="Matteo — systems programmer · security student"/>
 
 </div>
 
