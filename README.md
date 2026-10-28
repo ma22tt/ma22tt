@@ -6,7 +6,7 @@
 
 <br/>
 
-After 2 years at **42 Belgium**, I am now studying **systems security at EPHEC**. I work mainly in **C and C++** — system programming, networking, concurrency — and I am expanding into **backend development** with TypeScript, Node.js and PostgreSQL.
+After 2 years at **42 Belgium**, I am now studying **systems security**. I work mainly in **C and C++** — system programming, networking, concurrency and actually expanding into **backend development** .
 
 ### Languages
 
