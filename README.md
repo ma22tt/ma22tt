@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/" width="100%" alt="Matteo — systems programmer · security student"/>
-
 </div>
 
 <br/>
